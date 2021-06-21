@@ -1,0 +1,4 @@
+com/kinesis_consumer/SampleSingle.java
+ com.kinesis_consumer.SampleSingle
+ com.kinesis_consumer.SampleSingle$SampleRecordProcessor
+ com.kinesis_consumer.SampleSingle$SampleRecordProcessorFactory
